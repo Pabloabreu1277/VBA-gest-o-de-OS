@@ -1,4 +1,4 @@
-# VBA-gestao-de-OS
+# VBA-gestao-de-OS - Project finished.
 Sistema em VBA Excel para gestão de Ordens de serviço e manutenção de ativos.
 
 cadastro via formularios do vba front-end
